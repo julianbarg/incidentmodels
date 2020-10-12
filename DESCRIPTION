@@ -1,0 +1,16 @@
+Package: incidentmodels
+Title: Topic model for pipeline spills in the US
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Julian",
+           family = "Barg",
+           role = c("aut", "cre"),
+           email = "barg.julian@gmail.com")
+Description: Procides topic models for pipeline spills in the PHMSA dataset.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
