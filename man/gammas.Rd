@@ -13,29 +13,8 @@ used for the topic modeling.
 \item{year}{Incident year.}
 \item{commodity}{Commodity primarily transported in the pipeline.}
 \item{on_offshore}{Whether the incident occured onshore or offshore.}
-\item{Topic_1}{Weight for topic 1}
-\item{Topic_2}{Weight for topic 2}
-\item{Topic_3}{Weight for topic 3}
-\item{Topic_4}{Weight for topic 4}
-\item{Topic_5}{Weight for topic 5}
-\item{Topic_6}{Weight for topic 6}
-\item{Topic_7}{Weight for topic 7}
-\item{Topic_8}{Weight for topic 8}
-\item{Topic_9}{Weight for topic 9}
-\item{Topic_10}{Weight for topic 10}
-\item{Topic_11}{Weight for topic 11}
-\item{Topic_12}{Weight for topic 12}
-\item{Topic_13}{Weight for topic 13}
-\item{Topic_14}{Weight for topic 14}
-\item{Topic_15}{Weight for topic 15}
-\item{Topic_16}{Weight for topic 16}
-\item{Topic_17}{Weight for topic 17}
-\item{Topic_18}{Weight for topic 18}
-\item{Topic_19}{Weight for topic 19}
-\item{Topic_20}{Weight for topic 20}
-\item{Topic_21}{Weight for topic 21}
-\item{Topic_22}{Weight for topic 22}
-\item{Topic_23}{Weight for topic 23}
+\item{topic}{Topic number (between 1-23).}
+\item{gamma}{Weight for the topic (between 0-1).}
 }
 }
 \usage{
