@@ -15,6 +15,8 @@ used for the topic modeling.
 \item{on_offshore}{Whether the incident occured onshore or offshore.}
 \item{topic}{Topic number (between 1-23).}
 \item{gamma}{Weight for the topic (between 0-1).}
+\item{label}{Label for the topic.}
+\item{cause_topic}{Binary: is the topic describing causes of the incident or factors that could contribute to spill volume.}
 }
 }
 \usage{
